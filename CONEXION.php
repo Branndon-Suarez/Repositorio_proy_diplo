@@ -5,7 +5,7 @@
             private $TIPO_BD="mysql";
             private $SERVIDOR="localhost";
             private $BD_NAME="notas";
-            private $USUARIO="rootttt";
+            private $USUARIO="root";
             private $CONTRASEÑA="";
         
 
