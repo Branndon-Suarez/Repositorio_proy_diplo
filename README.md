@@ -2,12 +2,12 @@
 ###### Mi primer README
 [TOCM]
 
-### 1. ¿En qué consiste?
+- [1. ¿En qué consiste?](#1-en-qué-consiste)
 <p>
 Este sistema de información básico y sencillo estructurado en mvc consiste en **registrar las materias, usuarios y estudiantes** de una manera organizada junto a un *sistema de roles* básico delimitado por los administradores y docentes del sistema.
 </p>
 
-### 2. ¿Qué se utilizó?
+- [2. ¿Qué se utilizó?](#2-qué-se-utilizó)
 <span>Algunas herramientas utilizadas fueron:</span>
 <ol>
 	<li>*Visual studio code*</li>
@@ -21,7 +21,7 @@ Este sistema de información básico y sencillo estructurado en mvc consiste en 
 
 ***<span>[Mirar mejor en el repositorio](https://github.com/Branndon-Suarez/Repositorio_proy_diplo/blob/main/CONEXION.php)</span>***
 
-	<?php
+	'''<?php
 		class CONEXION{
 				protected $BD;
 				private $TIPO_BD="mysql";
@@ -44,9 +44,8 @@ Este sistema de información básico y sencillo estructurado en mvc consiste en 
 				}
 			}
 		}
-	?>
+	?>'''
 
 
 <h3>10. Otras herramientas</h3>
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
